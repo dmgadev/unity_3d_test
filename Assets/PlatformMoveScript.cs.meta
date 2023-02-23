@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 874c9056477e7834fbcf7223696cb4cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazeGenerator: {instanceID: 0}
+  - wayIndicator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
